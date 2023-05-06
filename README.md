@@ -1,4 +1,4 @@
-# Arrays Lab
+# Arrays Lab c
 
 ## Learning Goals
 
