@@ -1,5 +1,5 @@
 # Arrays Lab c
-
+c
 ## Learning Goals
 
 - Practice writing arrays
